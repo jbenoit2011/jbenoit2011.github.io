@@ -1,0 +1,15 @@
+# Site settings
+title: Words about software development
+email: https://jbenoit.wufoo.com/forms/contact-me/
+description: > # this means to ignore newlines until "baseurl:"
+  Just another blog about software development.
+  Mainly about web applications based on PHP, JavaScript and HTML 5.
+  It's a medium to share my knowledges, things I did, things I love, things I would do.
+  I hope it helps you.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://julienbenoit.net" # the base hostname & protocol for your site
+twitter_username: _JulienBenoit
+github_username:  jbenoit2011
+
+# Build settings
+markdown: kramdown
