@@ -2,8 +2,10 @@
 layout: post
 title:  "Premier Meetup Paris Zend Framework"
 date:   2014-11-17
-tags: ZF2 
+tags: ZF2
 ---
+
+__Si vous êtes développeur ZF1/ZF2/Apigility, venez [assister aux meetups](http://www.meetup.com/Paris-Zend-Framework-Meetup/) avec nous !__
 
 Afin de fédérer une communauté de développeurs passionnés autour de Zend Framework, le groupe "Paris Zend Framework Meetup" a été créé. Il organisait ce lundi 17 novembre, son premier meetup. En tant que développeur Zend Framework 1 et 2, je me suis rendu à cet événement. Il s'est déroulé dans les locaux d'[Inovia](https://twitter.com/inoviateam) qui nous a accueilli chaleureusement.
 
