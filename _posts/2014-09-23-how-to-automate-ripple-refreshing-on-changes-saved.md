@@ -14,7 +14,7 @@ Let me told you this time is over. How ? By automating the workflow. We will end
 ![cordova-development-workflow]
 (http://i.imgur.com/CaXYYFE.png)
 
-##Pre-requisites
+## Pre-requisites
 
 First of all, you will need some packages:
 
@@ -23,7 +23,7 @@ First of all, you will need some packages:
 - Rubygems: Install it with `rvm rubygems latest`
 - Chrome browser (Not tested but should also work with Firefox or Safari)
 
-##Installation
+## Installation
 
 Let's continue! There will be 3 steps:
 
@@ -31,7 +31,7 @@ Let's continue! There will be 3 steps:
 2. Install and configure guard-livereload
 3. Install and configure livereload Chrome Extension
 
-###Grunt-watch
+### Grunt-watch
 
 __What is Grunt-watch?__
 
@@ -67,7 +67,7 @@ Grunt-watch is a plugin of Grunt which allow to watch modifications on specified
 
 4. Run Grunt-watch task: `grunt watch`
 
-###Guard-livereload
+### Guard-livereload
 __What is Guard-livereload?__
 
 Guard-livereload is a plugin of [Guard](https://github.com/guard/guard) a tool which allow to trigger tasks on file system modifications.
@@ -95,13 +95,13 @@ Here we just need to watch the entire content of the www folder.
 5. Run `guard start` to launch the guard watching process
 
 
-###Livereload Chrome extension
+### Livereload Chrome extension
 
 1. [Install the extension](https://chrome.google.com/webstore/detail/livereload/jnihajbhpnppcggbcgedagnkighmdlei). A new icon should be added next to your address bar.
 If you use Firefox or Safari, please refer to this [page](http://feedback.livereload.com/knowledgebase/articles/86242-how-do-i-install-and-use-the-browser-extensions-)
 2. Switch to your Ripple emulator tab and click on the livereload icon to enable it.
 
-##Test
+## Test
 
 Finally test your new workflow:
 
