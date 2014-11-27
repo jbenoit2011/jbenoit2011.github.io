@@ -10,6 +10,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://julienbenoit.net" # the base hostname & protocol for your site
 twitter_username: _JulienBenoit
 github_username:  jbenoit2011
+ga_id: UA-29666592-1
+disqus_id: jbblog2
 
 # Build settings
 markdown: kramdown
