@@ -15,7 +15,7 @@ Bien que votre première contribution puisse être fastidieuse, n'hésitez pas u
 
 ## Once upon a time ...
 
-~~Tout commence dans un château, où vivait une jolie princesse emprisonnée par un affreux monstre ...~~
+<strike>Tout commence dans un château, où vivait une jolie princesse emprisonnée par un affreux monstre ...</strike>
 
 Tout commence, il y a 1 mois lors du premier meetup parisien de Zend Framework 2,
 [que je vous avais conté]({% post_url 2014-11-17-premier-meetup-zend-framework-2-paris %}).
